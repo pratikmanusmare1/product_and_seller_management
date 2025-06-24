@@ -1,7 +1,5 @@
 # product_and_seller_management
 
-# Laravel Marketplace API & Admin Panel
-
 A modern Laravel-based marketplace project with:
 - Admin and Seller authentication (UI + API)
 - Seller management (skills, products, brands)
